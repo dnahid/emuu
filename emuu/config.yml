@@ -1,0 +1,11 @@
+name: config
+source: "https://zenodo.org/record/3490684/files/"
+destination: data
+files:
+  - clotho_audio_development.7z
+  - clotho_audio_evaluation.7z
+  - clotho_captions_development.csv
+  - clotho_captions_evaluation.csv
+  - clotho_metadata_development.csv
+  - clotho_metadata_evaluation.csv
+  - LICENSE

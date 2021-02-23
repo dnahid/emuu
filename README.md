@@ -1,2 +1,3 @@
-# emuu
-Automated Audio Captioning
+# Emuu
+
+Automated Audio Captioning Library.
